@@ -525,10 +525,10 @@ img {
   align-items: center;
 }
 
-.social-links .link:hover,
-.social-links .link:focus {
+.social-links .footer-link:hover,
+.social-links .footer-link:focus {
   background-color: #31d0aa;
 }
 
-justify-content: center
+
 /*-----------------FOOTER-------------------*/
