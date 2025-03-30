@@ -518,15 +518,15 @@ img {
   height: 40px;
 }
 
-.two {
+.social-links {
   display: flex;
   gap: 16px;
   justify-content: center;
   align-items: center;
 }
 
-.social-links .foot-link:hover,
-.social-links .foot-link:focus {
+.social-links .link:hover,
+.social-links .link:focus {
   background-color: #31d0aa;
 }
 
