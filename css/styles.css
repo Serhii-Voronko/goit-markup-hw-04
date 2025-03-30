@@ -501,7 +501,7 @@ img {
 }
 
 
-.social {
+.footer-social {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -516,17 +516,17 @@ img {
   height: 40px;
 }
 
-.social-links {
+.footer-links {
   display: flex;
   gap: 16px;
   justify-content: center;
   align-items: center;
 }
 
-.social-links .footer-link:hover,
-.social-links .footer-link:focus {
+.footer-links .footer-link:hover,
+.footer-links .footer-link:focus {
   background-color: #31d0aa;
 }
 
-justify-content: center
+
 /*-----------------FOOTER-------------------*/
