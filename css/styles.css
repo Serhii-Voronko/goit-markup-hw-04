@@ -359,6 +359,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 24px;
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -530,5 +531,5 @@ img {
   background-color: #31d0aa;
 }
 
-
+justify-content: center
 /*-----------------FOOTER-------------------*/
